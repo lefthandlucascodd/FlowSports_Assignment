@@ -1,0 +1,31 @@
+{
+  "name": "flowsports_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:headed": "cypress run --headed",
+    "cypress:run:chrome": "cypress run --browser chrome",
+    "cypress:run:firefox": "cypress run --browser firefox",
+    "cypress:run:edge": "cypress run --browser edge",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lefthandlucascodd/FlowSports_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lefthandlucascodd/FlowSports_Assignment/issues"
+  },
+  "homepage": "https://github.com/lefthandlucascodd/FlowSports_Assignment#readme",
+  "description": "",
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.2.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
