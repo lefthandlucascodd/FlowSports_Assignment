@@ -1,6 +1,6 @@
-# Flow Wrestling Test Suite
+# FloWrestling Test Suite
 
-This repository contains automated tests for the Flow Wrestling website, specifically focusing on the EIWA Championship event page functionality.
+This repository contains automated tests for the FloWrestling website, specifically focusing on the EIWA Championship event page functionality.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This repository contains automated tests for the Flow Wrestling website, specifi
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd FlowSports_Assignment
+cd FloSports_Assignment
 ```
 
 2. Install dependencies:
